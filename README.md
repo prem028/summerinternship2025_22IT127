@@ -64,7 +64,7 @@
 ---
 
 ## 📊 Week 2 – Edulyt Analytics Internship
-[image](https://github.com/user-attachments/assets/574d2e26-50e5-4884-96f3-456a85393966)
+![image](https://github.com/user-attachments/assets/574d2e26-50e5-4884-96f3-456a85393966)
 
 
 ### 📅 09 June 2025 to 13 June 2025
