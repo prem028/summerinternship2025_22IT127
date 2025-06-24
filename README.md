@@ -3,7 +3,6 @@
 
 ## 📊 Week 1 – Edulyt Analytics Internship
 
-![start](https://img.icons8.com/external-flat-juicy-fish/60/000000/external-onboarding-user-interface-flat-flat-juicy-fish.png)
 
 ### 📅 02 June 2025 to 06 June 2025
 
