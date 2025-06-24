@@ -2,8 +2,6 @@
 ---
 
 ## 📊 Week 1 – Edulyt Analytics Internship
-
-
 ### 📅 02 June 2025 to 06 June 2025
 
 • This was the **onboarding week** at Edulyt India for the Analytics Internship.  
