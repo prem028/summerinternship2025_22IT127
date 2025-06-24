@@ -65,7 +65,8 @@
 
 ## 📊 Week 2 – Edulyt Analytics Internship
 
-![analytics]([https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-analytics-agile-flaticons-lineal-color-flat-icons.png](https://images.app.goo.gl/jibMQiFfaw83fdci7))
+![analytics]![image](https://github.com/user-attachments/assets/574d2e26-50e5-4884-96f3-456a85393966)
+
 
 ### 📅 09 June 2025 to 13 June 2025
 
