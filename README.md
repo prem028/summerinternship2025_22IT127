@@ -129,7 +129,6 @@
 
 ## 📊 Week 3 – Edulyt Analytics Internship
 
-![cleaning](https://img.icons8.com/external-flat-juicy-fish/60/000000/external-data-cleaning-big-data-flat-flat-juicy-fish.png)
 
 ### 📅 16 June 2025 to 20 June 2025
 
@@ -183,7 +182,6 @@
 
 ## 📊 Week 4 – Edulyt Analytics Internship
 
-![model](https://img.icons8.com/color/48/model--v1.png)
 
 ### 📅 23 June 2025 to 27 June 2025
 
